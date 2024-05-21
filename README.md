@@ -2,6 +2,6 @@
 
 <h2>HTML, CSS, SCSS ve Bootstrap kullanılarak responsive proje hazırlanmıştır.</h2>
 
-<h2>Ekran Gifi</h2>
+<h2>Ekran Görüntüsü</h2>
 
 ![](nissan.gif)
